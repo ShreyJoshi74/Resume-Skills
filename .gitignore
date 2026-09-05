@@ -1,0 +1,37 @@
+# Git
+.git/
+
+# LaTeX auxiliary and build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+

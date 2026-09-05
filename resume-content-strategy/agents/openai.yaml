@@ -1,0 +1,6 @@
+interface:
+  display_name: "Resume Content Strategy"
+  short_description: "Shape evidence-based resume content"
+  default_prompt: "Use $resume-content-strategy to turn my career notes into a truthful master resume outline."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Overleaf Resume Authoring"
+  short_description: "Edit and validate LaTeX resumes"
+  default_prompt: "Use $overleaf-resume-authoring to update and compile-check my Overleaf resume project."
+policy:
+  allow_implicit_invocation: true

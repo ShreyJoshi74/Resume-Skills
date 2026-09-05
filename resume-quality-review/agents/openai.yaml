@@ -1,0 +1,6 @@
+interface:
+  display_name: "Resume Quality Review"
+  short_description: "Audit content, ATS, and PDF quality"
+  default_prompt: "Use $resume-quality-review to audit my resume and prioritize the safest fixes."
+policy:
+  allow_implicit_invocation: true

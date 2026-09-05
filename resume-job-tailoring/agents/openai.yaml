@@ -1,0 +1,6 @@
+interface:
+  display_name: "Resume Job Tailoring"
+  short_description: "Match verified experience to a role"
+  default_prompt: "Use $resume-job-tailoring to adapt my verified resume for this job description."
+policy:
+  allow_implicit_invocation: true
